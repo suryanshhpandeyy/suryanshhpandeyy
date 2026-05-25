@@ -105,7 +105,6 @@ Full-stack travel and accommodation listing platform inspired by Airbnb, built u
 - MERN Stack Development
 - Advanced Backend Engineering
 - Data Structures & Algorithms
-- AI & Machine Learning
 - System Design Fundamentals
 
 ---
